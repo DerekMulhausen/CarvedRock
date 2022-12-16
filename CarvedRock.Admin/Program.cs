@@ -8,7 +8,7 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<ProductContext>();
 
-var app = builder.Build();
+var app = builder.Build(); 
 
 using(var scope=app.Services.CreateScope())
 {
