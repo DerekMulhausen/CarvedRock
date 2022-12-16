@@ -61,3 +61,7 @@ C:\projects\learning\carvedrock-admin\CarvedRock.Admin\bin\Debug\net7.0\runtimes
 C:\projects\learning\carvedrock-admin\CarvedRock.Admin\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\projects\learning\carvedrock-admin\CarvedRock.Admin\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\projects\learning\carvedrock-admin\CarvedRock.Admin\obj\Debug\net7.0\CarvedRock.Admin.csproj.CopyComplete
+C:\projects\learning\carvedrock-admin\carvedrock.admin\bin\Debug\net7.0\Humanizer.dll
+C:\projects\learning\carvedrock-admin\carvedrock.admin\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\projects\learning\carvedrock-admin\carvedrock.admin\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\projects\learning\carvedrock-admin\carvedrock.admin\bin\Debug\net7.0\System.CodeDom.dll

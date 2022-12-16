@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projects\\learning\\carvedrock-admin\\CarvedRock.Admin\\CarvedRock.Admin.csproj": {}
+    "C:\\projects\\learning\\carvedrock-admin\\carvedrock.admin\\CarvedRock.Admin.csproj": {}
   },
   "projects": {
-    "C:\\projects\\learning\\carvedrock-admin\\CarvedRock.Admin\\CarvedRock.Admin.csproj": {
+    "C:\\projects\\learning\\carvedrock-admin\\carvedrock.admin\\CarvedRock.Admin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\learning\\carvedrock-admin\\CarvedRock.Admin\\CarvedRock.Admin.csproj",
+        "projectUniqueName": "C:\\projects\\learning\\carvedrock-admin\\carvedrock.admin\\CarvedRock.Admin.csproj",
         "projectName": "CarvedRock.Admin",
-        "projectPath": "C:\\projects\\learning\\carvedrock-admin\\CarvedRock.Admin\\CarvedRock.Admin.csproj",
+        "projectPath": "C:\\projects\\learning\\carvedrock-admin\\carvedrock.admin\\CarvedRock.Admin.csproj",
         "packagesPath": "C:\\Users\\westb\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\learning\\carvedrock-admin\\CarvedRock.Admin\\obj\\",
+        "outputPath": "C:\\projects\\learning\\carvedrock-admin\\carvedrock.admin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,6 +45,12 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[7.0.1, )"
