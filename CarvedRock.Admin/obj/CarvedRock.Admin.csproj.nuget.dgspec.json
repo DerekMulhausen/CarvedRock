@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projects\\learning\\carvedrock-admin\\carvedrock.admin\\CarvedRock.Admin.csproj": {}
+    "C:\\projects\\learning\\carvedrock-admin\\CarvedRock.Admin\\CarvedRock.Admin.csproj": {}
   },
   "projects": {
-    "C:\\projects\\learning\\carvedrock-admin\\carvedrock.admin\\CarvedRock.Admin.csproj": {
+    "C:\\projects\\learning\\carvedrock-admin\\CarvedRock.Admin\\CarvedRock.Admin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\learning\\carvedrock-admin\\carvedrock.admin\\CarvedRock.Admin.csproj",
+        "projectUniqueName": "C:\\projects\\learning\\carvedrock-admin\\CarvedRock.Admin\\CarvedRock.Admin.csproj",
         "projectName": "CarvedRock.Admin",
-        "projectPath": "C:\\projects\\learning\\carvedrock-admin\\carvedrock.admin\\CarvedRock.Admin.csproj",
+        "projectPath": "C:\\projects\\learning\\carvedrock-admin\\CarvedRock.Admin\\CarvedRock.Admin.csproj",
         "packagesPath": "C:\\Users\\westb\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\learning\\carvedrock-admin\\carvedrock.admin\\obj\\",
+        "outputPath": "C:\\projects\\learning\\carvedrock-admin\\CarvedRock.Admin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,7 +51,21 @@
               "target": "Package",
               "version": "[7.0.1, )"
             },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[7.0.1, )"
             }
